@@ -495,9 +495,9 @@
           "name": "Essential",
           "type": "ForgeMod",
           "artifact": {
-            "size": 53777129,
+            "size": 53832196,
             "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/Essential-1.20.1.jar",
-            "MD5": "284c220ef94ea3a24630e73a240b463f"
+            "MD5": "18d05ed3c180031088875408e5baa93d"
           }
         },
         {
@@ -656,8 +656,8 @@
     },
     {
       "id": "MiServidor-1.12.2",
-      "name": "Vanilla (Minecraft 1.12.2)",
-      "description": "Vanilla Running Minecraft 1.12.2",
+      "name": "Jenny's Mod (1.12.2)",
+      "description": "Jenny's Mod + Essentials Running Minecraft 1.12.2",
       "icon": "https://assets.serverflex.io/images/runtimes/34651fb6-5196-499f-8d9f-3374125000bc/icon-256.png",
       "version": "1.3.5",
       "address": "localhost:25565",
