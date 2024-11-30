@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///D:/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Vanilla (Minecraft 1.12.2)",
+    "description": "Vanilla Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+    "icon": "https://assets.serverflex.io/images/runtimes/34651fb6-5196-499f-8d9f-3374125000bc/icon-256.png",
+    "address": "localhost:25565"
+  },
+  "mainServer": false,
+  "autoconnect": false,
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}

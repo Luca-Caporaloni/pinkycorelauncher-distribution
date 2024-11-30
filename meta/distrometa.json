@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Nebula/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "",
+    "discord": {
+      "clientId": "387310262459301898",
+      "smallImageText": "PinkyCore Launcher>",
+      "smallImageKey": "PinkyCore"
+    }
+  }
+}
