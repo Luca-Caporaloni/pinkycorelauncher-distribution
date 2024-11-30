@@ -438,8 +438,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -448,8 +451,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 516426,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/CobbleBadges-forge-2.1.0+1.20.1.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/CobbleBadges-forge-2.1.0+1.20.1.jar",
             "MD5": "92efc6fafa43059d71ce1597c89b3736"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -458,8 +464,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 478973,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/cobbledex-1.20.1-forge-1.1.0.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/cobbledex-1.20.1-forge-1.1.0.jar",
             "MD5": "29bbb6ad8e9baafc97b2bd832bef352c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -468,8 +477,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 215101,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/CobbleDollars-forge-1.5.2+1.20.1.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/CobbleDollars-forge-1.5.2+1.20.1.jar",
             "MD5": "d05aa8a5b1c1d45f743b820c6fd49d5d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -478,8 +490,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104105045,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/Cobblemon-forge-1.5.2+1.20.1.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/Cobblemon-forge-1.5.2+1.20.1.jar",
             "MD5": "89e9852463f198a88c7fb509a0eb5dd1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -498,8 +513,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379051,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.105.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.105.jar",
             "MD5": "947e4bd94640abf098f05ebbc32d0f43"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -508,8 +526,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -518,18 +539,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7145205,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/Essentials-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
           },
           "required": {
             "value": false
