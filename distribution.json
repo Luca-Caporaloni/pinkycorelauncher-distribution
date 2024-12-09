@@ -10814,16 +10814,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_H9@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6863178,
-            "url": "https://luca-caporaloni.github.io/pinkycorelauncher-distribution/servers/TikTok-Cheky-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_H9.jar",
-            "MD5": "e7c4c8af14d48f4149ff2ed442eed05c"
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
